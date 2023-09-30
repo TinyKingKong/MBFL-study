@@ -1,0 +1,8 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore txt files
+*.txt
+
+# Ignore bat files
+*.bat
